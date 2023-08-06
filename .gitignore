@@ -6,9 +6,19 @@ out/
 !/broadcast
 /broadcast/*/31337/
 /broadcast/**/dry-run/
+/broadcast/
 
 # Docs
 docs/
+lib/
 
 # Dotenv file
 .env
+.gas-snapshot
+.prettierignore
+.prettierrc
+debug.log
+inspect_storage.log
+lcov.info
+.keystore
+remappings.txt
